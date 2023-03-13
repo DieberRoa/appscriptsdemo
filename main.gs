@@ -1,7 +1,7 @@
 // Funciones para Convertir a PDF
 // Archivos destino:
-  dev: https://docs.google.com/spreadsheets/d/1Gq_Il7QlvTboY2QyZYcqjJfUUEA5tlpfuhl5Ya_HzXQ/edit#gid=0
-  qa : https://docs.google.com/spreadsheets/d/1Gq_Il7QlvTboY2QyZYcqjJfUUEA5tlpfuhl5Ya_HzXQ/edit#gid=0
+// dev: https://docs.google.com/spreadsheets/d/1Gq_Il7QlvTboY2QyZYcqjJfUUEA5tlpfuhl5Ya_HzXQ/edit#gid=0
+// qa : https://docs.google.com/spreadsheets/d/1Gq_Il7QlvTboY2QyZYcqjJfUUEA5tlpfuhl5Ya_HzXQ/edit#gid=0
 
 
 // Convierte un Google Sheet a PDF
